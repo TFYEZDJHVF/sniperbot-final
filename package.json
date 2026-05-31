@@ -1,0 +1,12 @@
+{
+  "name": "solana-wallet-tracker",
+  "version": "2.0.0",
+  "type": "module",
+  "dependencies": {
+    "@solana/web3.js": "^1.91.8",
+    "uuid": "^11.0.0"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
